@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kobo</string>
+    <string name="biblioteca">Una Biblioteca de primera </string>
+    <string name="contenido1">Consigue acceso a mas de 3,5 millones de los mejores/n eBoock, revistas,comics y libros infantiles</string>
+    <string name="boton1">Crear Cuenta</string>
+    <string name="boton2">Iniciar Sesion</string>
+    <string name="boton3">Explorar la Tienda de Kobo</string>
+    <color name="ColorBlanco">#ffff</color>
+    <color name="ColorPlomo">#9aa1a4</color>
+    <color name="ColorVerde">#31c69e</color>
+
+</resources>
